@@ -1,0 +1,27 @@
+# Data files
+*.csv
+*.xlsx
+!data/sample/*.csv
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large outputs
+outputs/charts/*.png
+outputs/results/*.csv
+
+
