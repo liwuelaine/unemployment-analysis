@@ -14,11 +14,11 @@ Analysis of unemployment trends across California, metro areas, and counties usi
 - **Most Volatile**: Metropolitan Area shows highest unemployment variation
 
 ## 🗂️ Structure
-|----- data/raw/unemployment.csv #Raw data
-|----- scripts/unemploy_table.py #Python loader
-|----- sql/unemployment_data_analysis.sql #SQL queries 
-|----- README.md
-
+🗂️ Structure
+- `data/raw/unemployment.csv` - Raw unemployment data
+- `scripts/unemploy_table.py` - Python script to load data
+- `sql/unemployment_data_analysis.sql` - All SQL analysis queries
+- `README.md` - Project documentation
 
 ## 💻 SQL Features
 - Data validation, metro peaks, area trends
