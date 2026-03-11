@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # US Unemployment Data Analysis (1990-2025)
 
 ## 📊 Overview
